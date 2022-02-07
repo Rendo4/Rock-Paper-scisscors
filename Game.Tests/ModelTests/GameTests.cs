@@ -13,9 +13,11 @@ namespace Game.Tests
       Assert.AreEqual("rock", newGame.GetPlayerOne());
       Assert.AreEqual("paper", newGame.GetPlayerTwo());
     }
+    [TestMethod]
     public void testDeterminingWinner()
     {
       PlayGame newGame = new PlayGame("rock", "paper");
+      newGame.CheckWinner();
       Assert.AreEqual(2, newGame.GetWinner());
     }
   }
