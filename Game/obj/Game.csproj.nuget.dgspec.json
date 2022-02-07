@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rendo\\desktop\\c#\\rock-papper\\Game\\Game.csproj": {}
+    "C:\\Users\\Rendo\\desktop\\C#\\rock-papper\\Game\\Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rendo\\desktop\\c#\\rock-papper\\Game\\Game.csproj": {
+    "C:\\Users\\Rendo\\desktop\\C#\\rock-papper\\Game\\Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rendo\\desktop\\c#\\rock-papper\\Game\\Game.csproj",
+        "projectUniqueName": "C:\\Users\\Rendo\\desktop\\C#\\rock-papper\\Game\\Game.csproj",
         "projectName": "Game",
-        "projectPath": "C:\\Users\\Rendo\\desktop\\c#\\rock-papper\\Game\\Game.csproj",
+        "projectPath": "C:\\Users\\Rendo\\desktop\\C#\\rock-papper\\Game\\Game.csproj",
         "packagesPath": "C:\\Users\\Rendo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rendo\\desktop\\c#\\rock-papper\\Game\\obj\\",
+        "outputPath": "C:\\Users\\Rendo\\desktop\\C#\\rock-papper\\Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
