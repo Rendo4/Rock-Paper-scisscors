@@ -14,6 +14,15 @@ namespace Game
       _playerTwo = playerTwoInput;
       _winner = 3;
     }
+
+    public string GetPlayerOne()
+    {
+      return _playerOne;
+    }
+    public string GetPlayerTwo()
+    {
+      return _playerTwo;
+    }
     public int GetWinner()
     {
       return _winner;
